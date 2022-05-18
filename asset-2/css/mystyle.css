@@ -1,0 +1,51 @@
+@charset "utf-8";
+.p1 {
+    height: 300px;
+    background-image: url(https://images.pexels.com/photos/884788/pexels-photo-884788.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p2 {
+    height: 300px;
+    background-image: url(https://images.pexels.com/photos/459203/pexels-photo-459203.jpeg?cs=srgb&dl=pexels-pixabay-459203.jpg&fm=jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p3 {
+    height: 300px;
+    background-image: url(https://images.pexels.com/photos/247431/pexels-photo-247431.jpeg?cs=srgb&dl=pexels-pixabay-247431.jpg&fm=jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p4 {
+    height: 300px;
+    background-image: url(https://images.pexels.com/photos/80454/tree-desert-namibia-dead-vlei-80454.jpeg?cs=srgb&dl=pexels-pixabay-80454.jpg&fm=jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p5 {
+    height: 300px;
+    background-image: url(https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?cs=srgb&dl=pexels-nextvoyage-490466.jpg&fm=jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p6 {
+    height: 600px;
+    background-image: url(https://images.pexels.com/photos/462024/pexels-photo-462024.jpeg?cs=srgb&dl=pexels-pixabay-462024.jpg&fm=jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.cotainer-fluid {
+    text-align: center;
+    height: 116px;
+    align-items: center;
+    justify-content: center;
+    font-size: 66px;
+    background-color: #0CF1AE;
+}
